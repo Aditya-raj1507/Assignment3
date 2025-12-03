@@ -4,3 +4,4 @@ CLASS ROLL NO=05
 UNIVERSITY ROLL NO=12515000103
 
 ABOUT GAME:
+This project is a basic console shooting game made in C to help me understand how real-time movement, keyboard input, and simple animations work. In this game, the player can move left and right and shoot bullets upward to hit falling enemies. I used concepts like loops, conditions, random numbers, and ASCII characters to draw the game on the screen. The score increases whenever the bullet hits the enemy, and the game becomes slightly faster to make it more challenging. If the enemy reaches the bottom without being shot, the game ends. Working on this code helped me learn how games update frame by frame, how to detect collisions, and how to handle user inputs like arrow keys and the space bar in C.
